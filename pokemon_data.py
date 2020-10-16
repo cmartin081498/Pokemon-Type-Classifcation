@@ -1,5 +1,4 @@
 #Curtis Martin
-#E252H926
 import pokebase as pb 
 import json
 #create a list of pokemon dictionarys
