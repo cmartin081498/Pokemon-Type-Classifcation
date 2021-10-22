@@ -9,7 +9,7 @@ numpy 1.19.1
 pokebase 1.3.0
 
 ## Usage 
-Run pokemon_data.py this will create a JSON pokemon dataset set the varibles to decied how many pokemon you want and how many moves are you taking into account
+Run pokemon_data.py this will create a JSON pokemon dataset. Set the varibles to decied how many pokemon you want and how many moves are you taking into account
 Run project_KNN.py this will train and test KNN and return the best estimator, micro recall, micro f1 score, hamming loss score and hamming score
 
 ## Note
